@@ -14,4 +14,4 @@ I'm very fortunate to be taught by [Prof Jennifer T. Lai](https://sites.google.c
 
 You could find my curriculum vitae here: [Wu, Weihong's CV](../assets/CV.pdf)
 
-[Linkedin](www.linkedin.com/in/weihong-wu-6a5b08241) / [Personal email](wuweihong2006@outlook.com) / [Academic email](20231704947@gdufs.edu.cn) / [WeChat](../image/wechat.jpg)
+[Linkedin](www.linkedin.com/in/weihong-wu-6a5b08241) / [Personal email](wuweihong2006@outlook.com) / [Academic email](20231704947@gdufs.edu.cn)
