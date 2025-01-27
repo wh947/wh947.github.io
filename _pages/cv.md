@@ -18,6 +18,7 @@ Work experience
 ======
 * **Depology**  
   * 2025/01 to Present: Media Buyer Intern with Rotation in UX Design and Product Strategy
+  * Shenzhen, China
   * Duties include:
     - Managed and optimized 100+ Facebook Ad Sets, ensuring the efficient allocation of advertising budgets and maximizing ROAS.
     - Analyzed ad performance metrics, including CTR, CPC, and ROAS, to inform optimization strategies and improve campaign results.
